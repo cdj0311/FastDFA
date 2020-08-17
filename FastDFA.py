@@ -1,6 +1,6 @@
 # encoding:utf-8
 #############################################
-# FileName: fast_dfa.py
+# FileName: FastDFA.py
 # Author: ChenDajun
 # CreateTime: 2020-08-17
 # Descreption: DFA for text match
